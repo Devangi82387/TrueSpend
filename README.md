@@ -21,7 +21,7 @@
 - **JavaScript/JSX**
 - **LocalStorage** for data persistence
 - **Custom Hooks** and **utility functions**
-- Chart library (optional or integrated)
+- Chart library 
 
 ---
 
